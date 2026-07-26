@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    color: blue;
+    text-align: center;
+}
+.intro{
+    color: green;
+    text-align: center;
+}
+.class{
+    color: cyan;
+    text-align: center;
+}

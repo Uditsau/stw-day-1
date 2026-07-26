@@ -16,7 +16,7 @@ console.log(`this is a bla bla bla, value of 2+3: ${2+3}`);
 //variable declaration
 let name = "Udit";
 console.log(name);
-const age=21;
+const age=20;
 console.log(age);
 var city="Kolkata";
 console.log(city);
@@ -58,8 +58,9 @@ const obj={
         first: "Udit",
         last: "Sau"
     },
-    age: 21,
+    age: 22,
     city: "Kolkata"
+    school: "XYZ School"
 };
 console.log(obj);
 console.log(typeof obj);

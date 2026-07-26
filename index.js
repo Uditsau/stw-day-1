@@ -48,7 +48,7 @@ console.log(arr);
 console.log(arr[2])
 console.log(typeof arr);
 
-
+//new comment
 
 
 
